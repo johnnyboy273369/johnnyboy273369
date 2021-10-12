@@ -18,13 +18,7 @@ You can click the Preview link to take a look at your changes.
 </html>
 
 
-<html>
- <head>
- </head>
- <body>
-  <img src="https://user-images.githubusercontent.com/6351798/94487808-c8304800-019e-11eb-97ef-414924be0e08.gif">
-</body>
-</html>
+
 
 
 
