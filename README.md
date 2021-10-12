@@ -9,7 +9,13 @@ johnnyboy273369/johnnyboy273369 is a ✨ special ✨ repository because its `REA
 You can click the Preview link to take a look at your changes.
 --->
 
-
+<html>
+ <head>
+ </head>
+ <body>
+  <img src="https://www.gizmodo.com.au/content/uploads/sites/2/2015/01/27/ofugqvne1mllpp0pyqyp.gif"> 
+</body>
+</html>
 
 <html>
  <head>
@@ -20,18 +26,15 @@ You can click the Preview link to take a look at your changes.
 </html>
 
 
-<html>
- <head>
- </head>
- <body>
-  <img src="https://www.gizmodo.com.au/content/uploads/sites/2/2015/01/27/ofugqvne1mllpp0pyqyp.gif"> 
-</body>
-</html>
 
 
+#bw-preloader, #bw-preloader:after {
+    background: url(https://user-images.githubusercontent.com/6351798/94487808-c8304800-019e-11eb-97ef-414924be0e08.gif) !important;
+    background-repeat: no-repeat !important;
+    border-radius: 0% !important;
+    width: 256px !important;
+    height: 256px !important;
+    margin: -128px 0 0 -128px;
+}
 
-<div id=”mainDiv”>
 
-<img id=”centerdImage” src="https://www.gizmodo.com.au/content/uploads/sites/2/2015/01/27/ofugqvne1mllpp0pyqyp.gif">><\img>
-
-<\div>
