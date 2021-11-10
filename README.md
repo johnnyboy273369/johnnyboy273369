@@ -22,10 +22,3 @@ You can click the Preview link to take a look at your changes.
 
 	
 
-<html>
- <head>
- </head>
- <body>
-  <img src="https://images.wsj.net/im-313885?width=860&height=574.gif"> 
-</body>
-</html>
