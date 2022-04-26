@@ -9,13 +9,6 @@ johnnyboy273369/johnnyboy273369 is a ✨ special ✨ repository because its `REA
 You can click the Preview link to take a look at your changes.
 --->
 
-<html>
- <head>
- </head>
- <body>
-  <img src="https://www.gizmodo.com.au/content/uploads/sites/2/2015/01/27/ofugqvne1mllpp0pyqyp.gif"> 
-</body>
-</html>
 
 
 
